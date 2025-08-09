@@ -214,37 +214,3 @@ Models are trained on sensor data including:
 [Tiago Capelo Monteiro](https://www.linkedin.com/in/tiago-monteiro-) - tca.monteiro@campus.fct.unl.pt
 
 [Sander Edgar Jose Almeirão](https://www.linkedin.com/in/sander-almeir%C3%A3o-07b1ba2b8) - s.almeirao@campus.fct.unl.pt
-
-## 🚀 Suggested GitHub Repository Names
-
-Here are some great name suggestions for your GitHub repository:
-
-### **Top Recommendations:**
-1. **`smart-farm-database`** - Clean, descriptive, and modern
-2. **`agricultural-iot-platform`** - Emphasizes the IoT and platform aspects
-3. **`farmers-data-hub`** - Focuses on the data management aspect
-4. **`crop-sensor-analytics`** - Highlights the sensor and analytics features
-5. **`agri-smart-db`** - Short, catchy, and descriptive
-
-### **Alternative Options:**
-6. **`farming-intelligence-system`** - Emphasizes the intelligent features
-7. **`crop-monitoring-platform`** - Focuses on monitoring capabilities
-8. **`agricultural-data-engine`** - Highlights the data processing aspect
-9. **`smart-agriculture-db`** - Simple and clear
-10. **`farm-iot-database`** - Direct and descriptive
-
-### **Creative Names:**
-11. **`green-thumb-db`** - Playful reference to farming
-12. **`crop-watcher`** - Emphasizes monitoring aspect
-13. **`farm-brain`** - Suggests intelligent farming system
-14. **`agri-vision`** - Implies comprehensive agricultural insight
-15. **`crop-sage`** - Suggests wisdom in crop management
-
-### **Academic/Professional:**
-16. **`mde-agricultural-database`** - Includes course reference
-17. **`fct-farmers-project`** - University and project reference
-18. **`agricultural-data-modeling`** - Academic focus
-19. **`smart-farming-mde`** - Course and topic combination
-20. **`crop-data-engineering`** - Engineering focus
-
-**My top pick would be `smart-farm-database`** - it's professional, descriptive, and easy to remember while clearly indicating what the project does!
