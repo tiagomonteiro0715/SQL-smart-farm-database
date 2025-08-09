@@ -8,7 +8,7 @@ We got a grade of 16 out of 20
 
 The system manages farmers, crops, sensors, production records, and commercialization data with advanced features including IoT sensor integration and machine learning capabilities.
 
-![Database schema](ttps://github.com/tiagomonteiro0715/SQL-smart-farm-database/blob/main/esquema.png)
+![Database schema](https://github.com/tiagomonteiro0715/SQL-smart-farm-database/blob/main/esquema.png)
 
 ## Project Structure
 
@@ -216,4 +216,5 @@ Models are trained on sensor data including:
 [Tiago Capelo Monteiro](https://www.linkedin.com/in/tiago-monteiro-) - tca.monteiro@campus.fct.unl.pt
 
 [Sander Edgar Jose Almeirão](https://www.linkedin.com/in/sander-almeir%C3%A3o-07b1ba2b8) - s.almeirao@campus.fct.unl.pt
+
 
